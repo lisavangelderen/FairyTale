@@ -1,20 +1,67 @@
-* Title
+* Gender Biases in Fairytales 
 
-* Abstract
-A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+** Abstract
 
-This repository will go over a fairy tale database and try to look at discrepancies in gender. 
+In this repository will be research into the differences in gender in fairy tales. A lot of children grow up hearing fairy tales before bed, or they learn reading by virtue of fairy tales. As such, these stories can have a big impact on the forming of opinions in young children. A lot of the stories are meant to teach children certain traditional values and are often very old. It is therefore worth it to investigate the way these stories handle gender roles. In old stories, usually written by men, gender roles can be quite stereotypical and patronizing towards women. The most classic fairy tale template is a great example of this: “A brave prince needs to rescue a beautiful but helpless princess from her perils.”. If we teach children values with stories that contain stereotypical gender roles, these roles will be perpetuated in the next generation. This is why this repository aims to map the way fairy tales deal with gender. 
 
-* Research questions
-A list of research questions you would like to address during the project.
+** Research questions
+What are the gender biases in fairytales? 
+Is there a difference when talking about ‘the princess’ of the story or a side character ‘girl’?
+Are certain biases correlated with the time period they were written in? 
+How do the contexts female characters appear in alignment with the conventional and prejudiced vision of women in our society?
 
-* Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+** What we’re expecting:
+Female characters: 
+soft spoken , gentle and considerate
+Passive role: need a prince or other male character to help/rescue them
+Obedient 
+“Feminine appearance”: elegant, dresses, perfectly arranged hair…
+Male characters: 
+Strong, handsome and brave
+Commanding and listened to/respected by others
+Appearance adapted to circumstances
+More active role: travelling, fighting, discovering...
+
+** Method
+Look at adjectives, verbs and adverbs appearing in the context of female/male names and personal pronouns:
+Adjectives: how characters are described, physical and mental attributes
+Verbs: what type of actions the characters accomplish, how the contribute to the storyline
+Adverbs: along with the adjectives, contribute to the image given by the characters 
+We believe these groups will provide a good representation of possible gender biases in the corpora.
+
+** Dataset
+For this project, we'll be using a partially preprocessed dataset. The dataset contains 453 stories of 5 different authors and has been POS tagged and lemmatized. This should be plenty of data to test our questions on whilst still being computationally feasible. The data file in the repository contains different clusters (created in a paper referenced at the bottom), where each cluster contains a number of stories.  Each story looks like this:
+
+There/EX --> there/EX
+was/VBD --> be/VBD
+a/DT --> a/DT
+certain/JJ --> certain/JJ
+merchant/NN --> merchant/NN
+who/WP --> who/WP
+had/VBD --> have/VBD
+two/CD --> two/CD
+children/NNS --> child/NNS
+,/, --> ,/,
+a/DT --> a/DT
+boy/NN --> boy/NN
+and/CC --> and/CC
+a/DT --> a/DT
+girl/NN --> girl/NN
+;/: --> ;/:
+
+To further preprocess the dataset, we could remove punctuation and focus on only parts that we’re interested in. 
 
 Link to the dataset: https://www.hlt.inesc-id.pt/w/Fairy_tale_corpus
 
-* A tentative list of milestones for the project
-Add here a sketch of your planning for the coming weeks. Please mention who does what.
+** A tentative list of milestones for the project
 
-* Documentation
+To start we will do some further preprocessing (possibly removing some tokens), collect the stories in a way that makes them easy for us to use (right now the files are organised in a way that is not too user friendly, making some rearrangements and making sure we only take into account the lemmatized tokens, not the un-lemmatized ones.), and decide on different methods to answer our questions (we could look at the correlations of certain tokens with gender roles, or train a model to predict a word associated with a gender role).
+
+Then we will make a new timeline according to our reorganisation and plans on how to tackle the problems at hand.
+
+** Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your res
+
+** Sources
+
+Paula Vaz Lobo, David Martins de Matos, Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm, In Language Resources and Evaluation Conference - LREC 2010, European Language Resources Association (ELRA), Malta, May 2010
