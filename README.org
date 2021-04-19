@@ -64,4 +64,8 @@ This can be added as the project unfolds. You should describe, in particular, wh
 
 ** Sources
 
-Paula Vaz Lobo, David Martins de Matos, Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm, In Language Resources and Evaluation Conference - LREC 2010, European Language Resources Association (ELRA), Malta, May 2010
+1. Paula Vaz Lobo, David Martins de Matos, Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm, In Language Resources and Evaluation Conference - LREC 2010, European Language Resources Association (ELRA), Malta, May 2010 
+2. https://hilo.hawaii.edu/campuscenter/hohonu/volumes/documents/Vol07x07HappilyEverAfter.pdf
+3. https://www.researchgate.net/publication/344922675_Challenging_gender_stereotypes_through_a_transformation_of_a_fairy_tale_Challenging_gender_stereotypes_through_a_transformation_of_a_fairy_tale
+4. https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1663&context=facsch_papers
+ 
