@@ -65,7 +65,7 @@ This can be added as the project unfolds. You should describe, in particular, wh
 
 ** Sources
 
-[1] M.R. Lieberman. ""Some Day My Prince Will Come": Female Acculturation through the Fairy Tale." *College English*. vol. 34, no.3, p.383, 1972. 
+[1] M.R. Lieberman. ""Some Day My Prince Will Come": Female Acculturation through the Fairy Tale." **College English**. vol. 34, no.3, p.383, 1972. 
 
 1. Paula Vaz Lobo, David Martins de Matos, Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm, In Language Resources and Evaluation Conference - LREC 2010, European Language Resources Association (ELRA), Malta, May 2010 
 2. https://hilo.hawaii.edu/campuscenter/hohonu/volumes/documents/Vol07x07HappilyEverAfter.pdf
