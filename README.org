@@ -2,10 +2,10 @@
 
 ** Abstract
 
-In this repository will be research into the differences in gender in fairy tales. A lot of children grow up hearing fairy tales before bed, or they learn reading by virtue of fairy tales. As such, these stories can have a big impact on the forming of opinions in young children. A lot of the stories are meant to teach children certain traditional values and are often very old. It is therefore worth it to investigate the way these stories handle gender roles. In old stories, usually written by men, gender roles can be quite stereotypical and patronizing towards women. The most classic fairy tale template is a great example of this: “A brave prince needs to rescue a beautiful but helpless princess from her perils.”. If we teach children values with stories that contain stereotypical gender roles, these roles will be perpetuated in the next generation. This is why this repository aims to map the way fairy tales deal with gender. 
+In this repository will be research into the possibility of gender bias in fairy tales. Fairy tales can give children important messages about gender roles, even though these messages might be based on outdated stereotypes [1]. Gender bias in fairy tales might include more focus on beauty in female characters and less on intelligence, and portraying female characters as passive agents [1]. A lot of children grow up hearing fairy tales before bed, or they learn reading by virtue of fairy tales. As such, these stories can have a big impact on the forming of opinions in young children. A lot of the stories are meant to teach children certain traditional values and are often very old. It is therefore worth it to investigate the way these stories handle gender roles. In old stories, usually written by men, gender roles can be quite stereotypical and patronizing towards women. The most classic fairy tale template is a great example of this: “A brave prince needs to rescue a beautiful but helpless princess from her perils.”. If we teach children values with stories that contain stereotypical gender roles, these roles will be perpetuated in the next generation. This is why this repository aims to map the way fairy tales deal with gender. 
 
 ** Research questions
-What are the gender biases in fairytales? 
+Is there gender bias in fairytales?  
 Is there a difference when talking about ‘the princess’ of the story or a side character ‘girl’?
 Are certain biases correlated with the time period they were written in? 
 How do the contexts female characters appear in alignment with the conventional and prejudiced vision of women in our society?
@@ -28,6 +28,7 @@ Adjectives: how characters are described, physical and mental attributes
 Verbs: what type of actions the characters accomplish, how the contribute to the storyline
 Adverbs: along with the adjectives, contribute to the image given by the characters 
 We believe these groups will provide a good representation of possible gender biases in the corpora.
+We will also use language modelling and language generation to check which words are most commonly associated with stereotypical male and female terms used in fairytales, such as "boy" and "girl", and "prince" and "princess".
 
 ** Dataset
 For this project, we'll be using a partially preprocessed dataset. The dataset contains 453 stories of 5 different authors and has been POS tagged and lemmatized. This should be plenty of data to test our questions on whilst still being computationally feasible. The data file in the repository contains different clusters (created in a paper referenced at the bottom), where each cluster contains a number of stories.  Each story looks like this:
@@ -63,6 +64,8 @@ Then we will make a new timeline according to our reorganisation and plans on ho
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your res
 
 ** Sources
+
+[1] M.R. Lieberman. ""Some Day My Prince Will Come": Female Acculturation through the Fairy Tale." _College English_. vol. 34, no.3, p.383, 1972. 
 
 1. Paula Vaz Lobo, David Martins de Matos, Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm, In Language Resources and Evaluation Conference - LREC 2010, European Language Resources Association (ELRA), Malta, May 2010 
 2. https://hilo.hawaii.edu/campuscenter/hohonu/volumes/documents/Vol07x07HappilyEverAfter.pdf
