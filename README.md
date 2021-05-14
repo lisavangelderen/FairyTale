@@ -13,17 +13,17 @@ In this repository will be research into the possibility of gender bias in fairy
 	* Can the same conventional stereotypical vision of men be found in the stories?
 		* If they can, are these stereotypes more negative or positive than the female ones? 
 
-# What we’re expecting:
-Female characters: 
-soft spoken , gentle and considerate
-Passive role: need a prince or other male character to help/rescue them
-Obedient 
-“Feminine appearance”: elegant, dresses, perfectly arranged hair…
-Male characters: 
-Strong, handsome and brave
-Commanding and listened to/respected by others
-Appearance adapted to circumstances
-More active role: travelling, fighting, discovering...
+# What we’re expecting / hypothese 
+* Female characters: 
+	* soft spoken, gentle and considerate
+	* Passive rol;: need a prince or other male character to help/rescue them
+	* Obedient 
+	* “Feminine appearance”: elegant, dresses, perfectly arranged hair…
+* Male characters: 
+	* Strong, handsome and brave
+	* Commanding and listened to/respected by others
+	* Appearance adapted to circumstances
+	* More active role: travelling, fighting, discovering...
 
 # Method
 Look at adjectives, verbs and adverbs appearing in the context of female/male names and personal pronouns:
