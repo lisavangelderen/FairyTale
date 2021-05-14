@@ -82,11 +82,37 @@ See issue 1
 See issue 2
 
 
+# Personal contributions
+
+* Alexia
+
+Data preprocessing, finding sources, milestone 2,3
+
+* Lisa 
+
+Data exploration, generating predictions/analogies 
+
+* Victor 
+
+Building/writing paper, building powerpoint, milestone 2,3
+
+* Zoë
+
+training model, making visual representations, milestone 2,3
+
+* Everyone
+
+Maintaining repository, working out ideas, milestone 1, 
+
 
 
 # Documentation
 
-The repo is quite self-explenatory, the in the readme all the required information for the project can be found. The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained. The code uses the data from the the data file, extracting it from the different clusters. The paper is written in LateX and can be found in the paper folder. The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
+The repo is quite self-explenatory, in the readme all the required information for the project can be found. 
+* The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained.
+* The data used by the code is in the data file, the code extracts it from the different clusters.
+* The paper is written in LateX and can be found in the paper folder as a pdf, the LateX form can also be found here.
+* The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
 
 # Sources
 
