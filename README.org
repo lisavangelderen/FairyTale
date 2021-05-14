@@ -1,4 +1,4 @@
-* Gender Biases in Fairytales 
+# Gender Biases in Fairytales 
 
 ** Abstract
 
@@ -31,7 +31,16 @@ We believe these groups will provide a good representation of possible gender bi
 We will also use language modelling and language generation to check which words are most commonly associated with stereotypical male and female terms used in fairytales, such as "boy" and "girl", and "prince" and "princess".
 
 ** Dataset
-For this project, we'll be using a partially preprocessed dataset. The dataset contains 453 stories of 5 different authors and has been POS tagged and lemmatized. This should be plenty of data to test our questions on whilst still being computationally feasible. The data file in the repository contains different clusters (created in a paper referenced at the bottom), where each cluster contains a number of stories.  Each story looks like this:
+For this project, we'll be using a partially preprocessed dataset. The dataset contains the following: 
+
+* Number of stories: 453
+* Number of words: 908,174
+* Average words/story: 1891
+* Shortest story: 75
+* Longest story: 17,694
+* Clusters: 365
+
+The stories are from 5 different authors and have been POS tagged and lemmatized. This should be plenty of data to test our questions on whilst still being computationally feasible. The data file in the repository contains different clusters (created in a paper referenced at the bottom), where each cluster contains a number of stories. Each story looks like this:
 
 There/EX --> there/EX
 was/VBD --> be/VBD
@@ -50,18 +59,31 @@ a/DT --> a/DT
 girl/NN --> girl/NN
 ;/: --> ;/:
 
-To further preprocess the dataset, we could remove punctuation and focus on only parts that we’re interested in. 
+To further preprocess the dataset, we remove punctuation and focus on only parts that we’re interested in. 
 
 Link to the dataset: https://www.hlt.inesc-id.pt/w/Fairy_tale_corpus
 
 ** A tentative list of milestones for the project
 
-To start we will do some further preprocessing (possibly removing some tokens), collect the stories in a way that makes them easy for us to use (right now the files are organised in a way that is not too user friendly, making some rearrangements and making sure we only take into account the lemmatized tokens, not the un-lemmatized ones.), and decide on different methods to answer our questions (we could look at the correlations of certain tokens with gender roles, or train a model to predict a word associated with a gender role).
+* Milestone 1
 
+To start we will do some further preprocessing (possibly removing some tokens), collect the stories in a way that makes them easy for us to use (right now the files are organised in a way that is not too user friendly, making some rearrangements and making sure we only take into account the lemmatized tokens, not the un-lemmatized ones.), and decide on different methods to answer our questions (we could look at the correlations of certain tokens with gender roles, or train a model to predict a word associated with a gender role).
 Then we will make a new timeline according to our reorganisation and plans on how to tackle the problems at hand.
 
+* Milestone 2
+
+See issue 1
+
+* Milestone 3
+
+See issue 2
+
+
+
+
 ** Documentation
-This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your res
+
+The repo is quite self-explenatory, the in the readme all the required information for the project can be found. The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained. The code uses the data from the the data file, extracting it from the different clusters. The paper is written in LateX and can be found in the paper folder. The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
 
 ** Sources
 
