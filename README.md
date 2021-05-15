@@ -66,6 +66,8 @@ To further preprocess the dataset, we remove punctuation and focus on only parts
 
 Link to the dataset: https://www.hlt.inesc-id.pt/w/Fairy_tale_corpus
 
+In addition to the above mentionned dataset, a dataset that we assembled ourselves with stories has also been used. This can be found in the andersongrimm.txt file. The stories in that file come from project Gutenberg. 
+
 # A tentative list of milestones for the project
 
 * Milestone 1
@@ -90,7 +92,7 @@ Data preprocessing, finding sources, milestone 2,3
 
 * Lisa 
 
-Data exploration, generating predictions/analogies 
+Data exploration, generating small texts, creating extra dataset, ngram model and analysis, milestone 1,2  
 
 * Victor 
 
@@ -102,7 +104,7 @@ training model, making visual representations, milestone 2,3
 
 * Everyone
 
-Maintaining repository, working out ideas, milestone 1, 
+Maintaining repository, working out ideas, milestone 1, presentation
 
 
 
@@ -111,6 +113,7 @@ Maintaining repository, working out ideas, milestone 1,
 The repo is quite self-explenatory, in the readme all the required information for the project can be found. 
 * The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained.
 * The data used by the code is in the data file, the code extracts it from the different clusters.
+* The extra dataset can be found in andersongrimm.txt
 * The paper is written in LateX and can be found in the paper folder as a pdf, the LateX form can also be found here.
 * The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
 
@@ -122,4 +125,7 @@ The repo is quite self-explenatory, in the readme all the required information f
 2. https://hilo.hawaii.edu/campuscenter/hohonu/volumes/documents/Vol07x07HappilyEverAfter.pdf
 3. https://www.researchgate.net/publication/344922675_Challenging_gender_stereotypes_through_a_transformation_of_a_fairy_tale_Challenging_gender_stereotypes_through_a_transformation_of_a_fairy_tale
 4. https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1663&context=facsch_papers
+5. https://www.gutenberg.org/ebooks/2591
+6. https://www.gutenberg.org/ebooks/1597
+7. https://www.gutenberg.org/ebooks/27200
  
