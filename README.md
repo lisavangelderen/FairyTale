@@ -77,40 +77,40 @@ Then we will make a new timeline according to our reorganisation and plans on ho
 
 * Milestone 2
 
-See issue 1
+See issue: "update 1" 
 
 * Milestone 3
 
-See issue 2
+See issue: "project update 2" 
 
 
 # Personal contributions
 
 * Alexia
 
-Data preprocessing, finding sources, milestone 2,3
+Data preprocessing, finding sources,
 
 * Lisa 
 
-Data exploration, generating small texts, creating extra dataset, ngram model and analysis, milestone 1,2  
+Data exploration, generating small texts, creating extra dataset, ngram model and analysis, 
 
 * Victor 
 
-Building/writing paper, building powerpoint, milestone 2,3
+Building/writing paper, building powerpoint, 
 
 * Zoë
 
-training model, making visual representations, milestone 2,3
+training model, making visual representations, 
 
 * Everyone
 
-Maintaining repository, working out ideas, milestone 1, presentation
+Maintaining repository, working out conceptual ideas, milestone 1, presentation, milestone 1 & 2 & 3
 
 
 
 # Documentation
 
-The repo is quite self-explenatory, in the readme all the required information for the project can be found. 
+The repo is quite self-explanatory, in the readme all the required information for the project can be found. 
 * The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained.
 * The data used by the code is in the data file, the code extracts it from the different clusters.
 * The extra dataset can be found in andersongrimm.txt
