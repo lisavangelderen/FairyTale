@@ -104,7 +104,7 @@ training model, making visual representations,
 
 * Everyone
 
-Maintaining repository, working out conceptual ideas, milestone 1, presentation, milestone 1 & 2 & 3
+Maintaining repository, working out conceptual ideas, presentation, milestone 1 & 2 & 3
 
 
 
