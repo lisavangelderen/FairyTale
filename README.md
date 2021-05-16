@@ -2,7 +2,8 @@
 
 # Abstract
 
-In this repository will be research into the possibility of gender bias in fairy tales. Fairy tales can give children important messages about gender roles, even though these messages might be based on outdated stereotypes [1]. Gender bias in fairy tales might include more focus on beauty in female characters and less on intelligence, and portraying female characters as passive agents [1]. A lot of children grow up hearing fairy tales before bed, or they learn reading by virtue of fairy tales. As such, these stories can have a big impact on the forming of opinions in young children. A lot of the stories are meant to teach children certain traditional values and are often very old. It is therefore worth it to investigate the way these stories handle gender roles. In old stories, usually written by men, gender roles can be quite stereotypical and patronizing towards women. The most classic fairy tale template is a great example of this: “A brave prince needs to rescue a beautiful but helpless princess from her perils.”. If we teach children values with stories that contain stereotypical gender roles, these roles will be perpetuated in the next generation. This is why this repository aims to map the way fairy tales deal with gender. 
+Fairy tales can give children important lessons about life and the world that they live in and are mostly viewed as such. In the western world one is unlikely to find a single person that does not know the story of Snow White and many of the other famous fairy tales. These stories however often contain messages about gender roles, even though these messages might be based on outdated stereotypes (Lieberman). A lot of children grow up hearing fairy tales before bed, or they learn reading by virtue of fairy tales. As such, these stories can have a big impact on the forming of opinions in young children (Wardetzky). We map and visualize the gender bias found in fairy tales by analyzing a corpus of European fairy tales written largely by the brothers Grimm (Aho, 2010). Using bi-grams, n-grams, a ppmi space and a Gensim Word2Vec model to show that gender bias exists on multiple levels in most fairy tales. Not only are women represented mostly as passive agents that require male characters to drive them forward, we show that female characters are largely characterized by their outward appearance instead of personality.
+
 
 # Research questions
 
@@ -66,7 +67,7 @@ To further preprocess the dataset, we remove punctuation and focus on only parts
 
 Link to the dataset: https://www.hlt.inesc-id.pt/w/Fairy_tale_corpus
 
-In addition to the above mentionned dataset, a dataset that we assembled ourselves with stories has also been used. This can be found in the andersongrimm.txt file. The stories in that file come from project Gutenberg. 
+In addition to the above mentioned dataset, a dataset that we assembled ourselves with stories has also been used. This can be found in the andersongrimm.txt file. The stories in that file come from project Gutenberg. 
 
 # A tentative list of milestones for the project
 
@@ -88,23 +89,23 @@ See issue: "project update 2"
 
 * Alexia
 
-Data preprocessing, finding sources,
+Data preprocessing, finding sources
 
 * Lisa 
 
-Data exploration, generating small texts, creating extra dataset, ngram model and analysis, paper
+Data exploration, generating small texts, creating extra dataset, ngram model and analysis
 
 * Victor 
 
-Building/writing paper, building powerpoint, 
+Building/writing paper, building powerpoint
 
 * Zoë
 
-training model, making visual representations, 
+training model, making visual representations
 
 * Everyone
 
-Maintaining repository, working out conceptual ideas, presentation, milestone 1 & 2 & 3
+Maintaining repository, working out conceptual ideas, presentation, paper, milestones
 
 
 
@@ -114,8 +115,8 @@ The repo is quite self-explanatory, in the readme all the required information f
 * The code is all in 1 jupyter notebook, codefile.ipynb, in here the all the code for the project can be found neatly organized and explained.
 * The data used by the code is in the data file, the code extracts it from the different clusters.
 * The extra dataset can be found in andersongrimm.txt
-* The paper is written in LateX and can be found in the paper folder as a pdf, the LateX form can also be found here.
-* The presentation can be found in the presentation folder and only holds a pptx file containing the slides. 
+* The paper is written in LateX and can be found in the paper folder as a pdf, the LateX form can also be found here. Our paper is slightly longer than the the maximum 4 pages as we are with an extra individual in our group. 
+* The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
 
 # Sources
 
