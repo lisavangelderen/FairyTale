@@ -125,9 +125,9 @@ The repo is quite self-explanatory, in the readme all the required information f
 * Marshall E. 2004d. The Daughter’s Disenchantment: Incest as Pedagogy in Fairy Tales and Kathryn Harrison’s “The Kiss.”. College English, 66(4), 403–426.
 * Meland, Aud T. 2020 Challenging gender stereotypes through a transformation of a fairy tale Challenging gender stereotypes through a transformation of a fairy tale.. European Early Childhood Education Research Journal. 28. 
 * Neikirk, A. 2013. ””...Happily Ever After” (or What Fairy Tales Teach Girls About Being Women”. Anthropology, 38-42. 
-* Vaz Lobo, Paula and de Matos, David M. 2010. Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm. European Language Resources Association (ELRA), Malta. 
-* Wardetzky, K. 1990. The Structure and Interpretation of Fairy Tales Composed by Children. The Journal of American Folklore. The Journal of American Folklore, 103(408), 157–176. 
-* Weingart, Scott and Jorgensen, Jeana. 2013. Computational Analysis of the Body in European Fairy Tales. Literary and Linguistic Computing/ (2013): 404-416. 
+* Vaz Lobo, Paula and de Matos, David M. 2010. Fairy Tale Corpus Organization Using Latent Semantic Mapping and an Item-to-item Top-n Recommendation Algorithm. European Language Resources Association (ELRA), Malta. 
+* Wardetzky, K. 1990. The Structure and Interpretation of Fairy Tales Composed by Children. The Journal of American Folklore. The Journal of American Folklore, 103(408), 157–176. 
+* Weingart, Scott and Jorgensen, Jeana. 2013. Computational Analysis of the Body in European Fairy Tales. Literary and Linguistic Computing/ (2013): 404-416. 
 * https://www.gutenberg.org/ebooks/2591
 * https://www.gutenberg.org/ebooks/1597
 * https://www.gutenberg.org/ebooks/27200
