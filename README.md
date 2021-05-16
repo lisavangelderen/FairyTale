@@ -92,7 +92,7 @@ Data preprocessing, finding sources,
 
 * Lisa 
 
-Data exploration, generating small texts, creating extra dataset, ngram model and analysis, 
+Data exploration, generating small texts, creating extra dataset, ngram model and analysis, paper
 
 * Victor 
 
@@ -115,7 +115,7 @@ The repo is quite self-explanatory, in the readme all the required information f
 * The data used by the code is in the data file, the code extracts it from the different clusters.
 * The extra dataset can be found in andersongrimm.txt
 * The paper is written in LateX and can be found in the paper folder as a pdf, the LateX form can also be found here.
-* The presentation can be found in the presentation folder and only holds a pptx file containing the slides. This is the only folder that is updated after the 16th of may.
+* The presentation can be found in the presentation folder and only holds a pptx file containing the slides. 
 
 # Sources
 
